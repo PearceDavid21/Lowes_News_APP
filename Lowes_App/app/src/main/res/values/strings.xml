@@ -2,4 +2,5 @@
     <string name="app_name">LowesAPI</string>
     <string name="post_error">Error</string>
     <string name="retry">try again</string>
+    <string name="api_url">https://newsapi.org/v2/</string>
 </resources>
